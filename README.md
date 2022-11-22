@@ -19,8 +19,6 @@ Página de Posts desenvolvida usando React, Typescript e Styled Components <br>
   <img align='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
   <img align='center' alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
   <img align='center' alt='StyledComponents' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
-
-  API FROM THE MOVIE DB
 </div>
 <br><br>
 
