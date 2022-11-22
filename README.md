@@ -8,7 +8,7 @@
 <h2><strong> 📝 Descrição:</strong></h2>    
 
 Página de Posts desenvolvida usando React, Typescript e Styled Components <br>
-<strong>Acesse o site e aproveite: https://primeflix-zeta.vercel.app </strong>
+<strong>Acesse o site e aproveite: https://reactposts-delta.vercel.app </strong>
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   
